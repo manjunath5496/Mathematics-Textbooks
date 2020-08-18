@@ -193,4 +193,91 @@ Applications</a></b></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(103).pdf" style="text-decoration:none;">Popular mathematics</a></b></li> 
  
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(104).pdf" style="text-decoration:none;">Mathematics and Music</a></b></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(105).pdf" style="text-decoration:none;">An invitation to General Algebra
+and Universal Constructions</a></b></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(106).pdf" style="text-decoration:none;">Introduction to Potential Theory via Applications</a></b></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(107).pdf" style="text-decoration:none;">18 Lectures on K-Theory</a></b></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(108).pdf" style="text-decoration:none;">Mathematics of Human Motion: from Animation towards Simulation (A View form the Outside)</a></b></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(109).pdf" style="text-decoration:none;">Computable integrability</a></b></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(110).pdf" style="text-decoration:none;">Category Theory for Scientists</a></b></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(111).pdf" style="text-decoration:none;">Mathematics and group theory in music</a></b></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(112).pdf" style="text-decoration:none;">Advances in Graph Algorithms</a></b></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(113).pdf" style="text-decoration:none;">Seven Sketches in Compositionality: An Invitation to Applied Category Theory</a></b></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(114).pdf" style="text-decoration:none;">Combinatorics on Words:
+Christoffel Words and Repetitions in Words</a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(115).pdf" style="text-decoration:none;">Logic for Everyone</a></b></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(116).pdf" style="text-decoration:none;">Algebraic geometry and projective differential geometry</a></b></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(117).pdf" style="text-decoration:none;">Algebraic Geometry</a></b></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(118).pdf" style="text-decoration:none;">Algebraic Geometry for Beginners</a></b></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(119).pdf" style="text-decoration:none;">A Short History of Greek Mathematics</a></b></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(120).pdf" style="text-decoration:none;">Category Theory
+for Computing Science</a></b></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(121).pdf" style="text-decoration:none;">Mathematical Methods of Engineering Analysis</a></b></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(122).pdf" style="text-decoration:none;">Algebra: A Computational Introduction</a></b></li>  
+     
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(123).pdf" style="text-decoration:none;">The Calculus for Beginners</a></b></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(124).pdf" style="text-decoration:none;">Calculus for engineers</a></b></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(125).pdf" style="text-decoration:none;">Category Theory Lecture Notes</a></b></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(126).pdf" style="text-decoration:none;">Mathematical Population Genetics: Lecture Notes</a></b></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(127).pdf" style="text-decoration:none;">Sets, Groups and Knots</a></b></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(128).pdf" style="text-decoration:none;">Flatland: a romance of many dimensions</a></b></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(129).pdf" style="text-decoration:none;">A Friendly Introduction
+to Mathematical Logic</a></b></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(130).pdf" style="text-decoration:none;">The game of logic </a></b></li>    
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(131).pdf" style="text-decoration:none;">Hack, Hack, Who's There? A gentle invitation to Model Theory</a></b></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(132).pdf" style="text-decoration:none;">Higher Topos Theory</a></b></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(133).pdf" style="text-decoration:none;">Mathematical linguistics</a></b></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(134).pdf" style="text-decoration:none;">Linear Algebra Done Wrong</a></b></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(135).pdf" style="text-decoration:none;">Lecture Notes on the Lambda Calculus</a></b></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(136).pdf" style="text-decoration:none;">Lectures on Linear Logic </a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(137).pdf" style="text-decoration:none;">Mathematical Tools for Physics</a></b></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(138).pdf" style="text-decoration:none;">Mathematics of Investment </a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(139).pdf" style="text-decoration:none;">Logic and Proof</a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(140).pdf" style="text-decoration:none;">Notes on the science of logic</a></b></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(141).pdf" style="text-decoration:none;"> A Mathematical Theory of Communication</a></b></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(142).pdf" style="text-decoration:none;">Games, Fixed Points and
+Mathematical Economics</a></b></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(143).pdf" style="text-decoration:none;">An elementary theory of the category of sets (long version) with commentary</a></b></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(144).pdf" style="text-decoration:none;">CALCULUS: Early Transcendentals</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(145).pdf" style="text-decoration:none;">Calculus Concentrate</a></b></li>
+ 
+ 
+ 
+ 
+ 
  </ul>
