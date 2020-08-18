@@ -277,7 +277,36 @@ Mathematical Economics</a></b></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(145).pdf" style="text-decoration:none;">Calculus Concentrate</a></b></li>
  
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(146).pdf" style="text-decoration:none;">Notes on the Poisson formula</a></b></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(147).pdf" style="text-decoration:none;">On Some of the Smarandache's Problems</a></b></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(148).pdf" style="text-decoration:none;">Analytic Number Theory: A Tribute to Gauss and Dirichlet</a></b></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(149).pdf" style="text-decoration:none;">Graphical calculus</a></b></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(150).pdf" style="text-decoration:none;">Differential and Integral Calculus</a></b></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(151).pdf" style="text-decoration:none;"> The General Theory of Dirichlet's Series </a></b></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(152).pdf" style="text-decoration:none;">An Introduction to Measure Theory</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(153).pdf" style="text-decoration:none;">Introduction to Microlocal Analysis</a></b></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(154).pdf" style="text-decoration:none;">Introduction to the Theory of Fourier's Series and Integrals</a></b></li> 
  
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(155).pdf" style="text-decoration:none;">Lectures on
+Field Theory and Ramification Theory</a></b></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(156).pdf" style="text-decoration:none;">Lectures on
+The Riemann Zeta–Function</a></b></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(157).pdf" style="text-decoration:none;">Lectures on
+Sieve Methods</a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(158).pdf" style="text-decoration:none;">Lectures on
+Forms of Higher Degree</a></b></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(159).pdf" style="text-decoration:none;">Lectures on
+A Method in the Theory of Exponential Sums</a></b></li>
  
  
  </ul>
