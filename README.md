@@ -153,7 +153,44 @@ Delivered at Columbia University in 1911</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(83).PDF" style="text-decoration:none;">The method of lagrange multipliers</a></li>
   
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(84).pdf" style="text-decoration:none;">The Story of Euclid</a></b></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(85).pdf" style="text-decoration:none;">Recreations in mathematics</a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(86).pdf" style="text-decoration:none;">An introduction to mathematics</a></b></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(87).pdf" style="text-decoration:none;">Elementary Catastrophe Theory</a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(88).pdf" style="text-decoration:none;">The nature of mathematics</a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(89).pdf" style="text-decoration:none;">A Mathematician's Miscellany</a></b></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(90).pdf" style="text-decoration:none;">Mathematical discovery</a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(91).pdf" style="text-decoration:none;">Indian mathematics</a></b></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(92).pdf" style="text-decoration:none;">Digraphs Theory, Algorithms and
+Applications</a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(93).pdf" style="text-decoration:none;"> A Short Account of the History of Mathematics</a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(94).pdf" style="text-decoration:none;">The Mathemagician and Pied Puzzler: A Collection in Tribute to Martin Gardner</a></b></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(95).pdf" style="text-decoration:none;">Theory of Probability: A Historical Essay</a></b></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(96).pdf" style="text-decoration:none;">Mathematical Essays and Recreations</a></b></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(97).pdf" style="text-decoration:none;">Introduction to Vertex Algebras</a></b></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(98).pdf" style="text-decoration:none;">Discrete Optimization</a></b></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(99).pdf" style="text-decoration:none;"> The Geometrization of Physics</a></b></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(100).pdf" style="text-decoration:none;">Ten British Mathematicians of the 19th Century</a></b></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(101).pdf" style="text-decoration:none;">How to Read Mathematics</a></b></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(102).pdf" style="text-decoration:none;">Vedic Mathematics</a></b></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(103).pdf" style="text-decoration:none;">Popular mathematics</a></b></li> 
  
  
  </ul>
