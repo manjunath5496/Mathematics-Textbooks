@@ -8,8 +8,8 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(3).pdf" style="text-decoration:none;">Elementary Calculus: An Infinitesimal Approach</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(4).pdf" style="text-decoration:none;">Introduction to Statistical Thought</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(5).pdf" style="text-decoration:none;">Elementary Differential Equations with Boundary Value Problems </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(6).pdf" style="text-decoration:none;">Elementary Differential Equations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(5).PDF" style="text-decoration:none;">Elementary Differential Equations with Boundary Value Problems </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(6).PDF" style="text-decoration:none;">Elementary Differential Equations</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(7).pdf" style="text-decoration:none;">Solid Geometry with Problems and
 Applications</a></li>
 
@@ -24,7 +24,7 @@ Applications</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(14).pdf" style="text-decoration:none;">Notes on Recent Researches in Electricity and Magnetism</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(15).pdf" style="text-decoration:none;">Introduction to Real Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(15).PDF" style="text-decoration:none;">Introduction to Real Analysis</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(16).pdf" style="text-decoration:none;">A Computational Introduction to Number Theory and Algebra</a></li>
 
@@ -49,7 +49,7 @@ Applications</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(27).pdf" style="text-decoration:none;">The Calculus of Functions of Several Variables</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(28).pdf" style="text-decoration:none;">Elementary differential equations and elementary differential equations with boundary value problems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(28).PDF" style="text-decoration:none;">Elementary differential equations and elementary differential equations with boundary value problems</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(29).pdf" style="text-decoration:none;">The Logic of Chance </a></li>                              
 
@@ -148,10 +148,10 @@ Delivered at Columbia University in 1911</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(80).pdf" style="text-decoration:none;">Some Famous Problems of the Theory of Numbers and in particular Waring's Problem,</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(81).pdf" style="text-decoration:none;">Functions defined by improper integrals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(81).PDF" style="text-decoration:none;">Functions defined by improper integrals</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(82).pdf" style="text-decoration:none;">Condensation of Determinants, Being a New and Brief Method for Computing their Arithmetical Values </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(83).pdf" style="text-decoration:none;">The method of lagrange multipliers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(83).PDF" style="text-decoration:none;">The method of lagrange multipliers</a></li>
   
  
  
