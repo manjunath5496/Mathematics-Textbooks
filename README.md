@@ -4,7 +4,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(1).pdf" style="text-decoration:none;">Data Mining, Inference, and Prediction</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(2).pdf" style="text-decoration:none;">Algebra, Topology, Dierential Calculus, and Optimization Theory For Computer Science and Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(2).pdf" style="text-decoration:none;">Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(3).pdf" style="text-decoration:none;">Elementary Calculus: An Infinitesimal Approach</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Mathematics-Textbooks/blob/master/mathv(4).pdf" style="text-decoration:none;">Introduction to Statistical Thought</a></li>                              
